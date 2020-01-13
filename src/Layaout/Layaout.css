@@ -1,0 +1,27 @@
+
+* {
+
+    margin-block: auto;
+    padding-block: auto;
+
+  
+  }
+
+  .buttonContainer{
+
+justify-content: flex-end;
+
+
+}  
+
+.sidebar{
+
+background-color: silver;
+
+}
+
+.maincontent{
+
+ background-color: aliceblue;   
+
+}
